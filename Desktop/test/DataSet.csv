@@ -1,0 +1,25 @@
+name,age,gender,income,education,profession,city,children,notes
+Alice,25,Female,40000,Bachelor&#39;s,Software Engineer,New York,0,
+Bob,NaN,Male,50000,High School,Sales Associate,Los Angeles,2,Age missing
+Charlie,30,Male,NaN,Master&#39;s,Data Analyst,,1,Income missing
+Diana,28,Female,42000,Bachelor&#39;s,Marketing Manager,San Francisco,0,
+Eve,35,Female,NaN,PhD,Research Scientist,Boston,3,Income missing
+Frank,40,M,60000,Bachelor&#39;s,Lawyer,Houston,2,
+Grace,22,Female,35000,Associate&#39;s,Nurse,Miami,0,
+,26,Male,NaN,Bachelor&#39;s,Teacher,Austin,0,Income missing
+Henry,45,Male,75000,Master&#39;s,Professor,Seattle,4,
+Irene,27,Female,NaN,High School,Retail Worker,Dallas,1,Income missing
+Jack,33,Male,55000,Bachelor&#39;s,Accountant,Philadelphia,2,
+Karen,29,F,NaN,Bachelor&#39;s,HR Specialist,,0,Gender format incorrect
+,NaN,Male,52000,NaN,Entrepreneur,Denver,3,Education missing
+Mia,31,Female,46000,Master&#39;s,Architect,Washington DC,1,
+Noah,26,Male,NaN,Bachelor&#39;s,Teacher,,0,Income missing
+Olivia,38,Female,70000,PhD,Doctor,San Diego,2,
+Peter,42,M,80000,Master&#39;s,Engineer,Portland,3,
+Quinn,24,Female,38000,Associate&#39;s,Graphic Designer,Phoenix,0,
+Ryan,36,Male,62000,Bachelor&#39;s,Financial Analyst,Minneapolis,1,
+Sophie,32,Female,NaN,High School,Waitress,Las Vegas,2,Income missing
+Thomas,48,Male,-90000,PhD,CEO,Detroit,4,Negative income (error)
+Alice,25,Female,40000,Bachelor&#39;s,Software Engineer,New York,0,
+,150,Other,1000000,NaN,Alien,Mars,10,Outlier and invalid data
+Karen,29,F,NaN,Bachelor&#39;s,HR Specialist,Atlanta,0,Gender format incorrect
